@@ -4,6 +4,16 @@
 
 This repository contains a simple implementation of the Boggle game using Python and Tkinter. Boggle is a word game where players attempt to find words in sequences of adjacent letters on a grid.
 
+
+![Boggle-start](https://github.com/libbyyosef/Boggle/assets/36642026/19c23bfb-6801-4096-9f79-ff6f842f458c)
+
+
+https://github.com/libbyyosef/Boggle/assets/36642026/b06dce32-6ad7-403f-8933-ad9bc506ac92
+
+
+![Boggle](https://github.com/libbyyosef/Boggle/assets/36642026/6c6f307c-5978-484d-a516-404b185328d9)
+
+
 **Project Structure**
 The project is organized into several files:
 
