@@ -1,5 +1,7 @@
 # Boggle
+
 **Introduction**
+
 This repository contains a simple implementation of the Boggle game using Python and Tkinter. Boggle is a word game where players attempt to find words in sequences of adjacent letters on a grid.
 
 **Project Structure**
